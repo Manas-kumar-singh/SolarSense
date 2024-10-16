@@ -29,6 +29,7 @@ You can install the necessary packages using pip:
 ```bash
 pip install pennylane tensorflow numpy scikit-learn
 
+'''
 
 ## Usage
 
